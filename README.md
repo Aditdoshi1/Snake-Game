@@ -33,8 +33,6 @@ The [Files] section specifies the source directory for the game files and the de
 
 Finally, the [Run] section specifies the executable file to be launched after installation.  
 
-To add this script to a GitHub repository, create a new file in the root directory of the repository and name it with the .iss extension. Then copy and paste the script into the new file and commit the changes. This will allow other users to download and install the Snake game directly from the repository.
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
