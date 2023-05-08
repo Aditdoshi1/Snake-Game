@@ -34,6 +34,9 @@ The [Files] section specifies the source directory for the game files and the de
 
 Finally, the [Run] section specifies the executable file to be launched after installation.  
 
+[Compile] this section to create an installation window.
+[Run] to install the software.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
