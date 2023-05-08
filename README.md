@@ -22,9 +22,10 @@ Press the Space key to restart the game after a game over.
 ## Installing the game using the executable file.  
 Double-click Snake_Game.exe
 
+## To create a executable file. Run the following command
+`pyinstaller --noconsole snake.py`
 ______________________________________________
-
-# Inno Setup[Used-to-create executable-file]  
+# Inno Setup[Used-to-create executable-installer]  
 This is an Inno Setup script used to create an installer for a Snake game.  
 
 The script sets various properties for the installer, such as the application name, version, publisher, and executable file name. It also specifies the default installation directory and creates an icon for the installed application.  
